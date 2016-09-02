@@ -3,6 +3,7 @@
 
 ## The Candyman
 
+```
 C
 Who can take a sunrise
 F		G7	F	G7
@@ -67,4 +68,4 @@ The candyman can cause he mixes it with love
 And makes the world taste good
 			D7				F								C
 And the world tastes good because the candyman thinks it should
-
+```
