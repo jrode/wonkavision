@@ -81,3 +81,60 @@ And makes the world taste good
 			D7				F								C
 And the world tastes good because the candyman thinks it should
 ```
+
+
+## Cheer Up Charlie
+
+```
+G
+Cheer up, Charlie
+C         G
+Give me a smile
+           Am        Bm                 Am
+What happened to the smile I used to know
+Am                   Bm
+Don't you know your grin has always
+G        C
+Been my sunshine;
+G#        Am      B
+Let that sunshine show...
+
+G
+Come on, Charlie
+C               G
+No need to frown
+     Am                 Bm                Am
+Deep down you know the world is still your toy...
+Am                  Bm
+When the world gets heavy
+      G      C
+Never pitter patter
+G#      Am   G
+Up and at'em boy
+
+Am        C          G
+Some day, sweet as a song
+Am               G#           G
+Charlie's lucky day will come along
+G
+Till that day
+Am                  G#     Am
+You've got to stay strong Charlie
+    (?Em?)    C               B
+Up on top is right where you belong
+
+G
+Look up, Charlie
+C            G
+You'll see a star
+     Am             Bm                Am
+Just follow it and keep your dreams in view
+Am               Bm            G         C
+Pretty soon the sky is going to clear up, Charlie,
+G#       B      Em
+Cheer up Charlie,do
+G
+Cheer up Charlie
+Am       C          G
+Just be glad you're you.
+```
